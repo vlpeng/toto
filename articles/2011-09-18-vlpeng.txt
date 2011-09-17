@@ -1,0 +1,25 @@
+title: vlpeng
+author: vlpeng
+date: 18/09/2011
+
+Create:
+
+$ git clone git://github.com/cloudhead/dorothy.git myblog
+
+$ cd myblog
+
+$ heroku create myblog
+
+$ git push heroku master
+
+Maintain:
+
+$ git add articles/wizard-of-oz.txt
+
+$ git commit -m 'wrote'
+
+$ git push remote master
+
+or doing this @Cloud9
+
+Cheers
