@@ -1,0 +1,7 @@
+title: gitremoteaddheroku
+author: vlpeng
+date: 18/09/2011
+
+git remote -v
+
+git remote add heroku git@heroku.com:aaaaaaaaaaaaaaa.git
